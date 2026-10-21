@@ -1,0 +1,20 @@
+{
+  "appId": "th.co.lscc.concepta",
+  "appName": "LSCC A",
+  "webDir": "www",
+  "backgroundColor": "#0A3F2B",
+  "android": {
+    "allowMixedContent": false
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 1500,
+      "backgroundColor": "#0A3F2B"
+    },
+    "StatusBar": {
+      "style": "LIGHT",
+      "backgroundColor": "#FAF7F0",
+      "overlaysWebView": false
+    }
+  }
+}
